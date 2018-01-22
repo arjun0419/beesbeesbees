@@ -1,5 +1,5 @@
 var HoneyMakerBee = function() {
-	Bee.call(this, this.color);
+	Bee.call(this);
 	this.age = 10;
 	this.job = "make honey";
 	this.color = this.color;
